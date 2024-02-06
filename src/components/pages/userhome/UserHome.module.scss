@@ -1,0 +1,14 @@
+.aside {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  // margin-left: 110px;
+
+  .inner {
+    flex-wrap: wrap;
+    background: rgb(0, 110, 255);
+    text-align: center;
+    border-radius: 20px;
+    width: 250px;
+  }
+}
